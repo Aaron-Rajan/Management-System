@@ -1,0 +1,4 @@
+Name: aaron	ID: 1205	Salary: 25
+Name: wajdan	ID: 3514	Salary: 30
+Name: jacob	ID: 1111	Salary: 17
+Name: ace	ID: 2512	Salary: 19
